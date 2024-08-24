@@ -1,2 +1,2 @@
 # Inventory-Management-System
-Inventory Management System
+The Inventory Management System is a Windows Forms application for a small retail store, designed to manage products, track stock, and record transactions. Built using C# with Entity Framework Core and SQL Server, it provides features like inventory tracking, product categorization, transaction recording, and reporting. The system allows users to view current inventory, search products, and generate reports, facilitating smooth retail operations.

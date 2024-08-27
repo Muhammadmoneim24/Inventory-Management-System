@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEPI\\C#\\Windows Form\\IMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|e:\\depi\\c#\\windows form\\ims\\ims\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|solutionrelative:ims\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|e:\\depi\\c#\\windows form\\ims\\ims\\dtos\\categorywisereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|solutionrelative:ims\\dtos\\categorywisereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|e:\\depi\\c#\\windows form\\ims\\ims\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|solutionrelative:ims\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|E:\\DEPI\\C#\\Windows Form\\IMS\\ims\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|solutionrelative:ims\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|e:\\depi\\c#\\windows form\\ims\\ims\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A7298E-EEDE-41C0-8D46-6D87E7CBB334}|IMS\\IMS.csproj|solutionrelative:ims\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryWiseReportDto.cs",
+              "DocumentMoniker": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Dtos\\CategoryWiseReportDto.cs",
+              "RelativeDocumentMoniker": "IMS\\Dtos\\CategoryWiseReportDto.cs",
+              "ToolTip": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Dtos\\CategoryWiseReportDto.cs",
+              "RelativeToolTip": "IMS\\Dtos\\CategoryWiseReportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:26:13.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Main.cs",
+              "RelativeDocumentMoniker": "IMS\\Main.cs",
+              "ToolTip": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Main.cs",
+              "RelativeToolTip": "IMS\\Main.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:09:07.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Main.cs",
+              "RelativeDocumentMoniker": "IMS\\Main.cs",
+              "ToolTip": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Main.cs [Design]",
+              "RelativeToolTip": "IMS\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:08:32.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Transactions.cs",
+              "RelativeDocumentMoniker": "IMS\\Transactions.cs",
+              "ToolTip": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Transactions.cs",
+              "RelativeToolTip": "IMS\\Transactions.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:27:32.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Products.cs",
+              "RelativeDocumentMoniker": "IMS\\Products.cs",
+              "ToolTip": "E:\\DEPI\\C#\\Windows Form\\IMS\\IMS\\Products.cs [Design]",
+              "RelativeToolTip": "IMS\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:45:57.59Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
